@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_requested_for" label="Requested For" language="en" table="x_1540898_wish_lis_wish_item">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_requested_for</element>
+            <help/>
+            <hint/>
+            <label>Requested For</label>
+            <language>en</language>
+            <name>x_1540898_wish_lis_wish_item</name>
+            <plural>Requested Fors</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-09 13:50:40</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Requested For</sys_name>
+            <sys_package display_value="Wish List" source="x_1540898_wish_lis">bdb6241453851210508c5eb0a0490e5a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wish List">bdb6241453851210508c5eb0a0490e5a</sys_scope>
+            <sys_update_name>sys_documentation_x_1540898_wish_lis_wish_item_u_requested_for_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-09 13:50:40</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

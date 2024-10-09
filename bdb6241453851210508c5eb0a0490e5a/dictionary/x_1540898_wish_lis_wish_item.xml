@@ -3,10 +3,16 @@
         <element label="Quantity" max_length="40" name="quantity" type="integer"/>
         <element attributes="edge_encryption_enabled=true" label="Item" mandatory="true" max_length="125" name="item" type="string"/>
         <element attributes="encode_utf8=false" label="Requester" mandatory="true" max_length="32" name="requester" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="Requested For" mandatory="true" max_length="32" name="u_requested_for" reference="sys_user" type="reference"/>
         <element label="URL" max_length="1024" name="url" type="url"/>
+        <element attributes="edge_encryption_enabled=true" label="when_needed" max_length="40" name="u_when_needed" type="glide_date_time"/>
         <element attributes="edge_encryption_enabled=true" label="Display Name" max_length="300" name="display_name" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Requested For Email" max_length="40" name="u_requested_for_email" read_only="true" type="string"/>
         <index name="index">
             <element name="requester"/>
+        </index>
+        <index name="index2">
+            <element name="u_requested_for"/>
         </index>
     </element>
 </database>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_1540898_wish_lis.validateEmailAddress</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <mobile_callable>false</mobile_callable>
+        <name>validateEmailAddress</name>
+        <sandbox_callable>false</sandbox_callable>
+        <script><![CDATA[function validateEmailAddress(emailStr){
+    // Use JavaScript coercion to guarantee emailStr is a string
+    emailStr = emailStr + '';
+    // Compare emailStr against the allowed syntax as specified in the regular expression
+    // If emailStr has allowed syntax, return true, else return false
+    if(emailStr.match(/^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/)){
+      return true;
+    }
+    else {
+     return false;
+    }
+  }]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-07 16:59:27</sys_created_on>
+        <sys_id>eac249e253cd1210508c5eb0a0490e62</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>validateEmailAddress</sys_name>
+        <sys_package display_value="Wish List" source="x_1540898_wish_lis">bdb6241453851210508c5eb0a0490e5a</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Wish List">bdb6241453851210508c5eb0a0490e5a</sys_scope>
+        <sys_update_name>sys_script_include_eac249e253cd1210508c5eb0a0490e62</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-07 16:59:27</sys_updated_on>
+    </sys_script_include>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>eac249e253cd1210508c5eb0a0490e62</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-07 16:59:27</sys_created_on>
+        <sys_id>c813c96253c51210508c5eb0a0490e5d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-07 16:59:27</sys_updated_on>
+        <table>sys_script_include</table>
+        <use_es_latest>true</use_es_latest>
+    </sys_es_latest_script>
+</record_update>

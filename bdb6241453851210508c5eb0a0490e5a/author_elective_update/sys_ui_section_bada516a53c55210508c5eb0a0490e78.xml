@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Section" section_id="bada516a53c55210508c5eb0a0490e78" sys_domain="global" table="x_1540898_wish_lis_wish_item" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_1</element>
+            <position>0</position>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2024-10-07 18:43:26</sys_created_on>
+            <sys_id>1bda516a53c55210508c5eb0a0490ec9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Section" display_value="Section" name="x_1540898_wish_lis_wish_item" sys_domain="global" view="Default view">bada516a53c55210508c5eb0a0490e78</sys_ui_section>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2024-10-07 18:43:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2024-10-07 18:43:26</sys_created_on>
+            <sys_id>93da516a53c55210508c5eb0a0490eca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Section" display_value="Section" name="x_1540898_wish_lis_wish_item" sys_domain="global" view="Default view">bada516a53c55210508c5eb0a0490e78</sys_ui_section>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2024-10-07 18:43:26</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Section</caption>
+            <header>false</header>
+            <name>x_1540898_wish_lis_wish_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2024-10-07 18:43:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bada516a53c55210508c5eb0a0490e78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1540898_wish_lis_wish_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Wish List" source="x_1540898_wish_lis">bdb6241453851210508c5eb0a0490e5a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wish List">bdb6241453851210508c5eb0a0490e5a</sys_scope>
+            <sys_update_name>sys_ui_section_bada516a53c55210508c5eb0a0490e78</sys_update_name>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2024-10-07 18:43:24</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wish List">bdb6241453851210508c5eb0a0490e5a</application>
+        <file_path/>
+        <instance_id>0a7a73b31b38c61c39a54089bd4bcb96</instance_id>
+        <instance_name>dev242857</instance_name>
+        <name>sys_ui_section_bada516a53c55210508c5eb0a0490e78</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Section" section_id="bada516a53c55210508c5eb0a0490e78" sys_domain="global" table="x_1540898_wish_lis_wish_item" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>u_choice_1</element><position>0</position><sys_created_by>fred.luddy</sys_created_by><sys_created_on>2024-10-07 18:43:26</sys_created_on><sys_id>1bda516a53c55210508c5eb0a0490ec9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Section" display_value="Section" name="x_1540898_wish_lis_wish_item" sys_domain="global" view="Default view">bada516a53c55210508c5eb0a0490e78</sys_ui_section><sys_updated_by>fred.luddy</sys_updated_by><sys_updated_on>2024-10-07 18:43:26</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>1</position><sys_created_by>fred.luddy</sys_created_by><sys_created_on>2024-10-07 18:43:26</sys_created_on><sys_id>93da516a53c55210508c5eb0a0490eca</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Section" display_value="Section" name="x_1540898_wish_lis_wish_item" sys_domain="global" view="Default view">bada516a53c55210508c5eb0a0490e78</sys_ui_section><sys_updated_by>fred.luddy</sys_updated_by><sys_updated_on>2024-10-07 18:43:26</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Section</caption><header>false</header><name>x_1540898_wish_lis_wish_item</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>fred.luddy</sys_created_by><sys_created_on>2024-10-07 18:43:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>bada516a53c55210508c5eb0a0490e78</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1540898_wish_lis_wish_item</sys_name><sys_overrides/><sys_package display_value="Wish List" source="x_1540898_wish_lis">bdb6241453851210508c5eb0a0490e5a</sys_package><sys_policy/><sys_scope display_value="Wish List">bdb6241453851210508c5eb0a0490e5a</sys_scope><sys_update_name>sys_ui_section_bada516a53c55210508c5eb0a0490e78</sys_update_name><sys_updated_by>fred.luddy</sys_updated_by><sys_updated_on>2024-10-07 18:43:24</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1520501488</payload_hash>
+        <record_name>Wish Item</record_name>
+        <reverted_from/>
+        <source>fc3b7c5453c91210508c5eb0a0490e69</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>fred.luddy</sys_created_by>
+        <sys_created_on>2024-10-07 18:43:26</sys_created_on>
+        <sys_id>93da516a53c55210508c5eb0a0490ee5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192684b1da40000001</sys_recorded_at>
+        <sys_updated_by>fred.luddy</sys_updated_by>
+        <sys_updated_on>2024-10-07 18:43:26</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>1bda516aefc552106e6d298dd4c27ae4</update_guid>
+        <update_guid_history>1bda516aefc552106e6d298dd4c27ae4:-1520501488</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>fred.luddy</sys_created_by>
+        <sys_created_on>2024-10-07 18:45:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>0527d2147955494289e1306be3628351</sys_id>
+        <sys_metadata>bada516a53c55210508c5eb0a0490e78</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Section</sys_name>
+        <sys_package display_value="Wish List" source="x_1540898_wish_lis">bdb6241453851210508c5eb0a0490e5a</sys_package>
+        <sys_parent display_value="Wish Item">f3076c9453851210508c5eb0a0490ed2</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">bdb6241453851210508c5eb0a0490e5a</sys_scope>
+        <sys_scope_delete display_value="">29383406a01a4b14bd23b5720b37b6c4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_bada516a53c55210508c5eb0a0490e78</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_bada516a53c55210508c5eb0a0490e78">93da516a53c55210508c5eb0a0490ee5</sys_update_version>
+        <sys_updated_by>fred.luddy</sys_updated_by>
+        <sys_updated_on>2024-10-07 18:45:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
